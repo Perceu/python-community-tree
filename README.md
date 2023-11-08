@@ -1,6 +1,6 @@
 # Python Community 
 
-Estrutura de eventos pelo brasil, regionais, locais e nascionais.
+Estrutura de eventos pelo brasil, regionais, locais e nacionais.
 
 ![arvore de eventos](./python_comunity.png)
 
